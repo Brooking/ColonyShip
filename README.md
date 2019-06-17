@@ -7,6 +7,6 @@ Colony Ship is a console RPG (in the best traditions of Rogue) but set on a spac
 
 Choose from a set of colonist specializations which will guide your playing style: slow but strong miner; tech savvy engineer, accurate security officer; or even the ship's sentient canine.
 
-Discover equipment, find free-energy cells (for trade), map out the lift system (the only part of the ship which is fixed), attempt to find allies (if indeed they exist), and untimately attempt to put the ship to rights.
+Discover equipment, find free-energy cells (for trade), map out the lift system (the only part of the ship which is fixed), attempt to find allies (if indeed they exist), and ultimately attempt to put the ship to rights.
 
-Available on Windows and Ubuntu Spring 2020.
+Available on Windows and Ubuntu, Spring 2020.
