@@ -20,11 +20,11 @@ A general guess about the steps to proceed (cribbed from http://www.roguebasin.c
   * Monsters
   
 * And then some other stuff...
- * Real-time?
- * Mouse
-  * Hover pane
-  * Move to
-  * Right click at
- * Flashlight?
+  * Real-time?
+  * Mouse
+    * Hover pane
+    * Move to
+    * Right click at
+  * Flashlight?
  
 
