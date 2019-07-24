@@ -26,5 +26,18 @@ A general guess about the steps to proceed (cribbed from http://www.roguebasin.c
     * Move to
     * Right click at
   * Flashlight?
+  
+* Configurable axes and other ideas
+  * Perma-death
+  * Hunger
+  * morph/fixed ship
+  * Ammunition
+  * Loot heavy/light
+  * Crafting
+  * fixed skill trees
+  * bionics
+  * inventory management (tetris minigame or not)
+  * 
+  
  
 
